@@ -2,10 +2,10 @@
 		                      YouTube Downloader FreeWare 
 			                      By : Jitendra Singh
 ############################################################################################################################
+Download youtube videos using bash shell script.
 
-Hello Friends ...................
 
-For Using This Please Follow These Steps :
+Please Follow Below Steps to use.
 
 1.  For Compilation : sudo ./Compile.sh
 
